@@ -9,7 +9,7 @@
 
 // Player tries to wake up Mitu 
 Міта? // Try 1
-Міта, проснись. // Try 2
+Міта, прокинься. // Try 2
 Мі-іта. // Try 3
 
 Міта, прокинься.
@@ -82,7 +82,7 @@
 
 // again sleep mitadream - Player
 Прокинься.
-Адже ми вже прийшли...
+Ми вже прийшли...
 
 // Switches
 // MitaDream
