@@ -1,10 +1,9 @@
- // Start of Selection
 // Player start
 Де я?
 Знайоме місце
-Я в цій грі?
+Я у цій грі?
 // Player try open the door
-Закрито?
+Зачинено?
 // Player in dark
 Тут темно.
-Я нічого не бачу.
+Я нiчого не бачу.
